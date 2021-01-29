@@ -1,5 +1,5 @@
 import XCTest
-@testable import Core
+@testable import CoreModuleMealApps
 
 final class CoreTests: XCTestCase {
     func testExample() {
